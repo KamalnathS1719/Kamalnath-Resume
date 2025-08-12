@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Featured Projects
-### [TamilLang](https://pypi.org/project/tamilcode/)  
+### [TamilLang](https://pypi.org/project/tamil-lang/)  
 A **Tamil-based programming language** to make coding accessible for Tamil speakers.  
 - Supports Tamil keywords & Unicode  
 - Published on PyPI for easy installation  
