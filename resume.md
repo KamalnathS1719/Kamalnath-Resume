@@ -6,7 +6,7 @@
 🌐 Portfolio: [kamalnaths.my.canva.site](https://kamalnaths.my.canva.site)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KamalnathS1719&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kamalnath-s)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamalnath-s-299304365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://kamalnaths.my.canva.site)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KamalnathS1719)  
 
