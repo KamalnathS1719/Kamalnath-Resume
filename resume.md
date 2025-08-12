@@ -25,7 +25,7 @@
 A **Tamil-based programming language** to make coding accessible for Tamil speakers.  
 - Supports Tamil keywords & Unicode  
 - Published on PyPI for easy installation  
-- [GitHub Repo](https://github.com/KamalnathS1719/tamilcode)
+- [GitHub Repo](https://github.com/KamalnathS1719/tamil-lang.git)
 
 ---
 
